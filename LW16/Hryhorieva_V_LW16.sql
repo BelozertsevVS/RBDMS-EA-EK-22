@@ -65,4 +65,3 @@ SET @start_date=DATEADD(DAY, 1, @start_date);
 END 
 
 SELECT*FROM #local_temp_dates
-
